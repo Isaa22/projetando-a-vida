@@ -2,9 +2,9 @@
 
 :root{
     --cor-de-fundo: #F08080;
-    --DarkRed: #8B0000;
-    --FireBrick: #CD5C5C;
-    --botao-ativo: #3A375E;
+    --DarkRed: #F08080;
+    --FireBrick: #F08080;
+    --botao-ativo: #F08080;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
